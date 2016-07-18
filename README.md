@@ -11,3 +11,5 @@ $('li[id!="one"]')
 .delay(500)
 .fadeIn(1400);
 ```
+
+Each line starts with the dot notation, and the semicolon at the end of the statement indicates that you have finished working with this selection. Most methods used to update the jQuery selection can be chained. However the methods that retrieve information from the DOM (or about the browser) cannot be chained.
