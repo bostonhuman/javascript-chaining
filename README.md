@@ -15,3 +15,11 @@ $('li[id!="one"]')
 Each line starts with the dot notation, and the semicolon at the end of the statement indicates that you have finished working with this selection. Most methods used to update the jQuery selection can be chained. However the methods that retrieve information from the DOM (or about the browser) cannot be chained.
 
 ![0](https://cloud.githubusercontent.com/assets/18538482/16905214/a10242d4-4c70-11e6-9584-ee14649fa1ea.png)
+
+## How to run the app locally?
+
+* In your terminal type:
+```
+git clone https://github.com/bostonhuman/javascript-chaining
+```
+* Open `chaining.html` to run the app.
